@@ -1,0 +1,10 @@
+{
+  "name": "PictoCrisis®",
+  "short_name": "PictoCrisis",
+  "description": "Comunicación de emergencia — Adriana Soba",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#B71C1C",
+  "orientation": "portrait"
+}
